@@ -5,7 +5,7 @@
   <meta charset="utf-8">
 </head> 
  <style>
-  .figure {
+  .fig {
     text-align: center; 
    }
   </style>
@@ -62,7 +62,7 @@
   </header>
   <article>
       <figure>
-          <p><img src="https://digital-photography-school.com/wp-content/uploads/2008/01/wide-angle-lens-3-1.jpg" alt=""></figure></p>
+          <p class="fig"><img src="https://digital-photography-school.com/wp-content/uploads/2008/01/wide-angle-lens-3-1.jpg" alt=""></figure></p>
           <figcaption>ВЕСЕЛАЯ СОБАКА</figcaption>      
     </article>
 <p> <time>07/04/2020 </time>
