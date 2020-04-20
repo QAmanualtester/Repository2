@@ -30,9 +30,9 @@
 <p><input list="character">
   <datalist id="character">
      <option value= "DESANT MICNE"></option> 
-<option value="VoDkA"></option>
-<option value="Semki"></option>  
-</datalist>
+      <option value="VoDkA"></option>
+       <option value="Semki"></option>  
+ </datalist>
  <h5> НУЖНО СПРОСИТЬ У ВЛАДИКА <mark>-ИЗМЕНЕНИЯ ВЫПОЛНЕНЫ-</mark> </h5>
  <p>Песня про друга</p>
  <audio src="www.mp3"  controls="controls" preload="auto" poster="audio/photo.jpg"></audio> <!--autoplay="autoplay"> controls="controls" and -->
