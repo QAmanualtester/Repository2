@@ -4,6 +4,11 @@
  <head>
   <meta charset="utf-8">
 </head> 
+ <style>
+  .figure {
+    text-align: center; 
+   }
+  </style>
 <!--<style>
 .figure {
     text-align: center; 
