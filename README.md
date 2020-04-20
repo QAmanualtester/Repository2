@@ -15,7 +15,7 @@
   </header>
   <article>
     <h2 align=center>HELLO FRIEND!</h2>
-    <p> WELCOME ON MY SITE.</p>
+    <p align=center> WELCOME ON MY SITE.</p>
     <h2 align=center>История создания сайта с дополнением его всякой  всячиной</h2>
   </article>
   <details>
