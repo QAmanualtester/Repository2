@@ -54,7 +54,7 @@
   </header>
   <article>
       <figure>
-          <p><img src="https://digital-photography-school.com/wp-content/uploads/2008/01/wide-angle-lens-3-1.jpg" alt=""></figure></p>
+          <p>< align=center img src="https://digital-photography-school.com/wp-content/uploads/2008/01/wide-angle-lens-3-1.jpg" alt=""></figure></p>
           <figcaption>ВЕСЕЛАЯ СОБАКА</figcaption>      
     </article>
 <p> <time>07/04/2020 </time>
