@@ -11,7 +11,7 @@
  
  <body>
   <header>
-    <h1 align="cent">  IT'S PERSONAL SITE by ARTEM SOLOD </h1>
+    <h1 align=center>  IT'S PERSONAL SITE by ARTEM SOLOD </h1>
   </header>
   <article>
     <h2>HELLO FRIEND!</h2>
