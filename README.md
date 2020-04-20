@@ -57,11 +57,10 @@
           <p><img src="https://digital-photography-school.com/wp-content/uploads/2008/01/wide-angle-lens-3-1.jpg" alt=""></figure></p>
           <figcaption>ВЕСЕЛАЯ СОБАКА</figcaption>      
     </article>
-  
-    <p><time>07/04/2020 </time>
+<p> <time>07/04/2020 </time>
       Был добавлен список для хранения информации коротую можно скрыть  или показать пользовательям при нажатии на стрелку 
     </p> 
-       <p><time>07/04/2020 </time>
+       <p> <time>07/04/2020 </time>
        Был добавлен выпадающий список с возможность поиска по вводу символов
     </p>
     <p> <time>08/04/2020</time>
