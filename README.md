@@ -5,6 +5,9 @@
   <meta charset="utf-8">
 </head> 
 <!--<style>
+.fig {
+    text-align: center; 
+   }
   body {
  background-image: url(https://images.unsplash.com/photo-1422493757035-1e5e03968f95?ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&h=500&q=60);  }
 </style>-->
@@ -54,7 +57,7 @@
   </header>
   <article>
       <figure>
-          <p>< align=center img src="https://digital-photography-school.com/wp-content/uploads/2008/01/wide-angle-lens-3-1.jpg" alt=""></figure></p>
+          <p><img src="https://digital-photography-school.com/wp-content/uploads/2008/01/wide-angle-lens-3-1.jpg" alt=""></figure></p>
           <figcaption>ВЕСЕЛАЯ СОБАКА</figcaption>      
     </article>
 <p> <time>07/04/2020 </time>
