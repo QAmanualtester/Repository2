@@ -5,7 +5,7 @@
   <meta charset="utf-8">
 </head> 
 <!--<style>
-.fig {
+.figure {
     text-align: center; 
    }
   body {
