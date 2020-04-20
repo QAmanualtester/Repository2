@@ -4,12 +4,12 @@
  <head>
   <meta charset="utf-8">
 </head> 
- <style>
+<style>
   .fig {
     text-align: center; 
    }
   </style>
-  body {
+  <!--<style>body {
  background-image: url(https://images.unsplash.com/photo-1422493757035-1e5e03968f95?ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&h=500&q=60);  }
 </style>-->
  
