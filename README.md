@@ -14,9 +14,9 @@
     <h1 align=center>  IT'S PERSONAL SITE by ARTEM SOLOD </h1>
   </header>
   <article>
-    <h2>HELLO FRIEND!</h2>
+    <h2 align=center>HELLO FRIEND!</h2>
     <p> WELCOME ON MY SITE.</p>
-    <h2>История создания сайта с дополнением его всякой  всячиной</h2>
+    <h2 align=center>История создания сайта с дополнением его всякой  всячиной</h2>
   </article>
   <details>
     <summary>Не открывать!!!</summary>
